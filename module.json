@@ -1,0 +1,43 @@
+{
+  "id": "cyberpunk-red-the-gunpath",
+  "title": "CPR: Gunpath- The Weapon Generator",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "authors": [
+    {
+      "name": "TheFlatline",
+      "discord": "TheFlatline42"
+    }
+  ],
+  "url": "https://github.com/Flatline42/cyberpunk-red-the-gunpath",
+  "manifest": "",
+  "download": "",
+  "packs": [
+    {
+      "name": "gunpath-rolltables",
+      "label": "Gunpath Rolltables",
+      "path": "packs/gunpath-rolltables",
+      "type": "RollTable",
+      "system": "cyberpunk-red-core",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "gunpath-macros",
+      "label": "Gunpath Macros",
+      "path": "packs/gunpath-macros",
+      "type": "Macro",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "cyberpunk-red-core"
+    }
+  ],
+  "description": "Gunpath Generator utilizing Toggle's Temple DLC available from:\nhttps://rtalsoriangames.com/downloadable-content/\n\nAdditionally used icons from \nhttps://game-icons.net\nLicense: CC BY 3.0\nhttps://creativecommons.org/licenses/by/3.0/\n\nCPR Night City Weather Generator is unofficial content provided under the Homebrew Content Policy of R. Talsorian Games and is not approved or endorsed by RTG. This content references materials that are the property of R. Talsorian Games and its licensees."
+}
