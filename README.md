@@ -13,8 +13,8 @@
 <p>There are several macros inside the Gunpath Macro that you can run depending on the output you wish to use. Drag any of the macros you want to your toolbar and run. There is no need to import any rolltables and doing so will break the macros.&nbsp;</p>
 <ol>
     <li>Toggle's Temple Gunpath- This is the original, unmodified generator from Toggle's Temple. Run this if you wish to use the DLC as written.</li>
-    <li>The Gunpath- This version of the generator includes odds, between 16-25% depending on the weapon, of not having any attachments, allowing you to generate a branded “regular” gun such as a medium pistol or SMG. </li>
-    <li>Gunpath Deluxe - This version of the Gunpath is houseruled to include anywhere from 0-3 attachments that you can add onto the gun. It also generates two random drawbacks to the gun that the GM may feel like adding to the weapon to offset the way that guns are priced in the gunpath system. </li>
+    <li>The Gunpath- This version of the generator includes odds, between 16-25% depending on the weapon, of not having any attachments, allowing you to generate a branded “regular” gun such as a medium pistol or SMG.</li>
+    <li>Gunpath Deluxe - This version of the Gunpath is houseruled to include anywhere from 0-3 attachments that you can add onto the gun. It also generates two random drawbacks to the gun that the GM may feel like adding to the weapon to offset the way that guns are priced in the gunpath system.</li>
     <li>207X Gunpath- This macro generates guns with either a Tech, Power, or Smart rebuild. It will not account for doubling up on the smart rebuild or the smartgun link in generation, the GM can pick one. This module includes a tech, power, and smart rebuild option. However, none of these have any game effects, they are merely placeholders.&nbsp;</li>
 </ol>
 <p>&nbsp;</p>
@@ -25,5 +25,8 @@
 <p>Gunpath Generator tables utilizing Toggle's Temple DLC available from:<br><a target="_blank" rel="noopener noreferrer" href="https://rtalsoriangames.com/downloadable-content/">https://rtalsoriangames.com/downloadable-content/</a></p>
 <p>&nbsp;</p>
 <p>Additionally used icons from&nbsp;<br><a target="_blank" rel="noopener noreferrer" href="https://game-icons.net">https://game-icons.net</a><br>License: CC BY 3.0<br><a target="_blank" rel="noopener noreferrer" href="https://creativecommons.org/licenses/by/3.0/">https://creativecommons.org/licenses/by/3.0/</a></p>
+<p>&nbsp;</p>
+<p dir="auto">Compendium art is a derivative from</p>
+<p dir="auto">Foundry VTT Cyberpunk Red system under GPLv3.0</p>
 <p>&nbsp;</p>
 <p>CPR: Gunpath- The Gun Generator is unofficial content provided under the Homebrew Content Policy of R. Talsorian Games and is not approved or endorsed by RTG. This content references materials that are the property of R. Talsorian Games and its licensees.</p>
