@@ -9,12 +9,18 @@
 <p>&nbsp;</p>
 <figure class="image"><img style="aspect-ratio:293/821;" src="https://i.imgur.com/vLOrQWz.png" width="293" height="821"></figure>
 <figure class="image"><img style="aspect-ratio:718/378;" src="https://i.imgur.com/mPNVvGx.png" width="718" height="378"></figure>
-<h2>Notes-</h2>
-<ul>
-    <li>There is a mild houserule in this generator that includes the odds, between 16-25% depending on the weapon, of not having any attachments, reflecting the "standard" weapons in the world. I may separate this out into a RAW and "standard weapon" generator or adjust the odds of a normal weapon depending on feedback.</li>
-    <li>There's a lot of name generator tables in here linked to basically nothing, like I said it's a beta. I haven't decided on trying to create a name generator. Most of them will be garbage unless I curate the lot of them and I don't know if I'll do that. If you're interested in taking that part of the project on, let me know.</li>
-    <li>I'm not thrilled with the weapon cost rules and the generator will spit out inappropriate combinations (junk gun manufacturers and excellent quality guns). I put a couple points in about potential house mods to make the weapons more interesting. Let me know if they work for you or not. They don't impact the output of course.</li>
-</ul>
+<h2>How do I run it?</h2>
+<p>There are several macros inside the Gunpath Macro that you can run depending on the output you wish to use. Drag any of the macros you want to your toolbar and run. There is no need to import any rolltables and doing so will break the macros.&nbsp;</p>
+<ol>
+    <li>Toggle's Temple Gunpath- This is the original, unmodified generator from Toggle's Temple. Run this if you wish to use the DLC as written.</li>
+    <li>The Gunpath- This version of the generator includes odds, between 16-25% depending on the weapon, of not having any attachments, allowing you to generate a branded “regular” gun such as a medium pistol or SMG. </li>
+    <li>Gunpath Deluxe - This version of the Gunpath is houseruled to include anywhere from 0-3 attachments that you can add onto the gun. It also generates two random drawbacks to the gun that the GM may feel like adding to the weapon to offset the way that guns are priced in the gunpath system. </li>
+    <li>207X Gunpath- This macro generates guns with either a Tech, Power, or Smart rebuild. It will not account for doubling up on the smart rebuild or the smartgun link in generation, the GM can pick one. This module includes a tech, power, and smart rebuild option. However, none of these have any game effects, they are merely placeholders.&nbsp;</li>
+</ol>
+<p>&nbsp;</p>
+<p>After it's generated, create the weapon as a normal item. This module is only a generator and does not automate weapon creation since there are several decision points a GM must make to finish the generator.&nbsp;</p>
+<p>&nbsp;</p>
+<h2>&nbsp;</h2>
 <p>&nbsp;</p>
 <p>Gunpath Generator tables utilizing Toggle's Temple DLC available from:<br><a target="_blank" rel="noopener noreferrer" href="https://rtalsoriangames.com/downloadable-content/">https://rtalsoriangames.com/downloadable-content/</a></p>
 <p>&nbsp;</p>
