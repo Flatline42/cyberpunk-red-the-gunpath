@@ -64,6 +64,6 @@
   ],
   "description": "A collection of gun generators for Cyberpunk Red.\n\nThe Gunpath Generator utilizing Toggle's Temple DLC available from:\nhttps://rtalsoriangames.com/downloadable-content/\n\nAdditional material referenced from the Cyberpunk Edgerunner Mission Kit.\nhttps://rtalsoriangames.com/cyberpunk-edgerunners-mission-kit/\n\n\nAdditionally used icons from \nhttps://game-icons.net\nLicense: CC BY 3.0\nhttps://creativecommons.org/licenses/by/3.0/\n\nCPR Gunpath- The Weapon Generator is unofficial content provided under the Homebrew Content Policy of R. Talsorian Games and is not approved or endorsed by RTG. This content references materials that are the property of R. Talsorian Games and its licensees.",
   "url": "https://github.com/Flatline42/cyberpunk-red-the-gunpath",
-  "manifest": "https://github.com/Flatline42/cyberpunk-red-the-gunpath//releases/latest/download/module.json",
+  "manifest": "https://github.com/Flatline42/cyberpunk-red-the-gunpath/releases/latest/download/module.json",
   "download": "https://github.com/Flatline42/cyberpunk-red-the-gunpath/releases/latest/download/cyberpunk-red-the-gunpath.zip"
 }
