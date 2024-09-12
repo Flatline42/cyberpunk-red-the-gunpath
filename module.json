@@ -1,7 +1,7 @@
 {
   "id": "cyberpunk-red-the-gunpath",
   "title": "CPR: Gunpath- The Weapon Generator",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
@@ -29,7 +29,7 @@
       "name": "gunpath-rolltables",
       "label": "Gunpath Rolltables",
       "path": "packs/gunpath-rolltables",
-      "banner": "modules/cyberpunk-red-the-gunpath/icons/compendium-banner-ff7f00.webp",
+      "banner": "modules/cyberpunk-red-the-gunpath/art/compendium-banner-ffff00.webp",
       "type": "RollTable",
       "system": "cyberpunk-red-core",
       "ownership": {
@@ -41,7 +41,7 @@
       "name": "gunpath-macros",
       "label": "Gunpath Macros",
       "path": "packs/gunpath-macros",
-      "banner": "modules/cyberpunk-red-the-gunpath/icons/compendium-banner-ff7f00.webp",
+      "banner": "modules/cyberpunk-red-the-gunpath/art/compendium-banner-ffff00.webp",
       "type": "Macro",
       "system": "cyberpunk-red-core",
       "ownership": {
@@ -53,7 +53,7 @@
       "name": "gunpath-items",
       "label": "Gunpath Items",
       "path": "packs/gunpath-items",
-      "banner": "modules/cyberpunk-red-the-gunpath/icons/compendium-banner-ff7f00.webp",
+      "banner": "modules/cyberpunk-red-the-gunpath/art/compendium-banner-ffff00.webp",
       "type": "Item",
       "system": "cyberpunk-red-core",
       "ownership": {
@@ -64,6 +64,6 @@
   ],
   "description": "A collection of gun generators for Cyberpunk Red.\n\nThe Gunpath Generator utilizing Toggle's Temple DLC available from:\nhttps://rtalsoriangames.com/downloadable-content/\n\nAdditional material referenced from the Cyberpunk Edgerunner Mission Kit.\nhttps://rtalsoriangames.com/cyberpunk-edgerunners-mission-kit/\n\n\nAdditionally used icons from \nhttps://game-icons.net\nLicense: CC BY 3.0\nhttps://creativecommons.org/licenses/by/3.0/\n\nCPR Gunpath- The Weapon Generator is unofficial content provided under the Homebrew Content Policy of R. Talsorian Games and is not approved or endorsed by RTG. This content references materials that are the property of R. Talsorian Games and its licensees.",
   "url": "https://github.com/Flatline42/cyberpunk-red-the-gunpath",
-  "manifest": "https://github.com/Flatline42/cyberpunk-red-the-gunpath/releases/download/v1.2.2/module.json",
-  "download": "https://github.com/Flatline42/cyberpunk-red-the-gunpath/releases/download/v1.2.2/cyberpunk-red-the-gunpath.zip"
+  "manifest": "https://github.com/Flatline42/cyberpunk-red-the-gunpath//releases/latest/download/module.json",
+  "download": "https://github.com/Flatline42/cyberpunk-red-the-gunpath/releases/latest/download/cyberpunk-red-the-gunpath.zip"
 }
